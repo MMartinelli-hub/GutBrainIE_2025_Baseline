@@ -40,7 +40,7 @@ Performance on other languages, domains, full-text articles, or data types has n
 
 ## 3. Data provenance
 
-The baseline uses the GutBrainIE 2025 collection of 1,647 PubMed titles and abstracts concerning gut microbiota, Parkinson’s disease, and mental health. No full-text articles or restricted-access documents are included in the collection. Source-text reuse remains subject to applicable licensing terms.
+The baseline uses the GutBrainIE 2025 collection of 1,647 PubMed titles and abstracts concerning gut microbiota, Parkinson’s disease, and mental health. No full-text articles or restricted-access documents are included in the collection. Source-text reuse remains subject to applicable licensing terms. Corpus statistics and annotation guidelines are available on the [challenge website](https://hereditary.dei.unipd.it/challenges/gutbrainie/2025/).
 
 The collection is available through the [GutBrainIE 2025 benchmark archive](https://doi.org/10.5281/zenodo.16845409). 
 
